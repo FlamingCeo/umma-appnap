@@ -17,6 +17,9 @@ function App() {
         >
           Learn React
         </a>
+        <a href='sara'>Go to sara</a>
+        <a href='/sara1'>Go to sara1</a>
+        <a href='/gotoPage'>Go to gotoPage</a>
       </header>
     </div>
   );
